@@ -1,4 +1,4 @@
-package com.example.springcalculator;
+package com.example.springcalculator.Service;
 
 public interface CalculatorService {
     String greetings();
