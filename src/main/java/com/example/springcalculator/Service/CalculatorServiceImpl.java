@@ -16,7 +16,6 @@ public class CalculatorServiceImpl implements CalculatorService {
         int result = num1 + num2;
         return num1 + " + " + num2 + " = " + result;
     }
-
     @Override
     public String minus(Integer num1, Integer num2) {
         validateNumber(num1, num2);

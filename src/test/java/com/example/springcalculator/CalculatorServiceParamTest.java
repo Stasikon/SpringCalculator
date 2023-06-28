@@ -1,5 +1,4 @@
 package com.example.springcalculator;
-
 import com.example.springcalculator.Service.CalculatorService;
 import com.example.springcalculator.Service.CalculatorServiceImpl;
 import org.junit.jupiter.api.Assertions;
